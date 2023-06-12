@@ -47,4 +47,4 @@ The best-performing model achieved an accuracy of 91% on the development set. Th
 
 ## Author
 
-Bhavya Pandya
+Bhavya
